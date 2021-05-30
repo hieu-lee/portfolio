@@ -12,7 +12,7 @@ import { pageurl } from "../store";
 
 <div class="dashboard">
   <div class="brief-info">
-    <div style="max-width: 500px">
+    <div style="max-width: 500px; margin-left: 3ch;">
       <h5 class="role">FULLSTACK WEB DEVELOPER/SOFTWARE ENGINEER</h5>
       <h1 class="name">I'm Hieu Le</h1>
       <div class="buttons">
@@ -66,6 +66,7 @@ import { pageurl } from "../store";
 }
 
 .dashboard .profile-picture {
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -98,6 +99,25 @@ import { pageurl } from "../store";
 
 .middle {
     margin: 0 80px;
+}
+
+@media (max-width: 800px) {
+  .middle {
+    margin: 0 40px;
+  }
+
+  .row2 {
+    margin: 80px 0;
+  }
+}
+
+@media (max-width: 700px) {
+  .brief-info {
+    padding: 10ch 0;
+  }
+  .dashboard {
+    display: block;
+  }
 }
 
 .dashboard .brief-info .more {
