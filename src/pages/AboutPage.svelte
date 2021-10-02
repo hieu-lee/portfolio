@@ -33,7 +33,7 @@
                                         <path class="rect" fill="#22A5F1"
                                             d="M4.58 5.382c.62.606 1.166.801 1.366.853l.746-.73c.063-.061.168-.061.241 0l1.418 1.387c.032.031.053.072.053.113 0 .041-.01.093-.042.123l-.83.812-.02.02-.022.01c-.21.165-.483.247-.82.247-.934 0-2.237-.678-3.308-1.725-1.524-1.47-2.185-3.246-1.524-4.047l.032-.031.83-.812c.063-.061.168-.061.241 0L4.36 2.99c.031.03.052.072.052.113a.163.163 0 0 1-.052.113l-.746.73c.063.174.325.8.966 1.437zM0 0v9.768h9.99V0z">
                                         </path>
-                                    </svg></div><span>(+84)947711596</span>
+                                    </svg></div><span>(+33)768058851</span>
                             </div>
                             <div class="info-contact-row">
                                 <div class="icon-info-contact"><svg viewBox="0 0 10 10" width="20">
@@ -103,7 +103,7 @@
                         <div class="resume-section-item">
                             <div class="resume-experience-item-title">
                                 <p><strong class="title">Developer</strong> Sep 2020 / In progress</p>
-                                <div><strong><i>Home</i></strong>, Ha Noi</div>
+                                <div><strong><i>Palaiseau, Paris</i></strong></div>
                             </div>
                             <div class="resume-experience-item-text">
                                 <p style="text-align: start;"><span
@@ -154,21 +154,18 @@
                                             <a target="_blank" href="https://github.com/hieu-lee/TodoList"
                                                 style="color: #22A5F1;">Source code</a></span></li>
                                     <li><span
-                                            style="color: rgb(0, 0, 0); font-size: 14px; font-family: Century Gothic, serif;">An
-                                            online Chat Application (it's a web app), allowing you to send text
-                                            messages, creating private and public rooms, created using Blazor
-                                            Webassembly, ASP.Net Core and Mongodb.<br />
-                                            <a target="_blank" href="https://github.com/hieu-lee/ChatAppOnline"
+                                            style="color: rgb(0, 0, 0); font-size: 14px; font-family: Century Gothic, serif;">FutureMe - An app allowing you to send letters to your future self, and allowing people to read, like the public letters. I used Blazor Webassembly for this app.<br />
+                                            <a target="_blank" href="https://hieu-lee.github.io/FutureMe"
+                                            style="color: #22A5F1;">FutureMe</a>&nbsp;<br/>
+                                            <a target="_blank" href="https://github.com/hieu-lee/FutureMe"
                                                 style="color: #22A5F1;">Source
                                                 code</a></span>&nbsp;</li>
                                     <li><span
                                         style="color: rgb(0, 0, 0); font-size: 14px; font-family: Century Gothic, serif;">
-                                        A todo list I created using Reactjs for frontend and ASP.Net Core for the backend, it has
-                                        all the functionalities as the desktop version above (which uses Blazor), and it also has notification system
-                                        with sound effects. You can access it by the link below<br/>
-                                        <a target="_blank" href="https://hieu-lee.github.io/react-practice"
-                                            style="color: #22A5F1;">To Do</a>&nbsp;<br/>
-                                        <a target="_blank" href="https://github.com/hieu-lee/react-practice"
+                                        MEDU - An online app allowing teachers to manage their classes, students' info and teaching schedules. I used Blazor Server for this app.<br/>
+                                        <a target="_blank" href="https://medu-app.azurewebsites.net/"
+                                            style="color: #22A5F1;">MEDU</a>&nbsp;<br/>
+                                        <a target="_blank" href="https://github.com/hieu-lee/ClassManagement"
                                             style="color: #22A5F1;">Source
                                             code</a></span>&nbsp;</li>
                                 </ul>
