@@ -19,14 +19,14 @@
                             <img src="img/Hieu Le.jpg" style="width: 141px; height: 141px; border-radius: 50%;" alt="Profile picture">
                         </div>
                         <div class="info-contact">
-                            <div class="fullname">Hieu Le</div>
+                            <div class="fullname">Duc Hieu Le</div>
                             <div class="info-contact-row">
                                 <div class="icon-info-contact"><svg viewBox="0 0 10 10" width="20">
                                         <path class="rect" fill="#22A5F1" d="M0 0h10v10H0z"></path>
                                         <path fill="#fff"
                                             d="M5.004 5.287a1.143 1.143 0 0 1 0-2.284 1.143 1.143 0 0 1 0 2.284zm0-3.407A2.266 2.266 0 0 0 2.74 4.143c0 1.55 2.026 3.823 2.112 3.92.08.09.222.09.303 0 .086-.097 2.112-2.37 2.112-3.92A2.266 2.266 0 0 0 5.003 1.88z">
                                         </path>
-                                    </svg></div><span>44 Hao Nam Street</span>
+                                    </svg></div><span>103 Henri Becquerel, 91120 Palaiseau</span>
                             </div>
                             <div class="info-contact-row">
                                 <div class="icon-info-contact"><svg viewBox="0 0 10 10" width="20">
